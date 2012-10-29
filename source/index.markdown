@@ -11,7 +11,7 @@ footer: false
 
 #### Ciudad Real Ruby meetup group
 
-Grupo local (aunque, por supuesto, sin ningún tipo de restricción) que nace con el propósito de reunir a *Rubyistas*, curiosos e interesados en las distintas tecnologías basadas en **Ruby** como su mayor exponente **Ruby on Rails**.
+Grupo local (aunque, por supuesto, sin ningún tipo de restricción) que nace con el propósito de reunir a *Rubyistas*, curiosos e interesados en las distintas tecnologías basadas en [Ruby](http://ruby-lang.org) como su mayor exponente [Ruby on Rails](http://rubyonrails.org/).
 
 Puedes asistir libremente a las charlas y reuniones, iremos anunciando las próximas convocatorias a través del blog y otros medios. No es necesario que te registres, aunque anunciar tu asistencia nos ayudará a cubrir posibles problemas de aforo.
 
