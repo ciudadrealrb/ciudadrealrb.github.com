@@ -1,1 +1,1 @@
-rvm use 1.9.3@blog_ciudadrealrb_org --create
+rvm use 1.9.3-p194@blog_ciudadrealrb_org --create
