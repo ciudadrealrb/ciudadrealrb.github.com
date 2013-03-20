@@ -29,6 +29,4 @@ como *frontend* de procesos **Unicorn**.
 
 Por supuesto, el proceso mencionado en este artículo es aplicable a cualquier
 otro tipo de software basado en Rails y permite definir un
-**entorno inicial** para la configuración y despliegue de aplicaciones.
-
-**[Setting up a cheap Redmine server using Unicorn and Apache](http://blog.davidanguita.name/2013/03/03/setting-up-a-cheap-redmine-server-using-unicorn-and-apache/).**
+**entorno inicial** para la configuración y despliegue de aplicaciones: **[Setting up a cheap Redmine server using Unicorn and Apache](http://blog.davidanguita.name/2013/03/03/setting-up-a-cheap-redmine-server-using-unicorn-and-apache/).**
