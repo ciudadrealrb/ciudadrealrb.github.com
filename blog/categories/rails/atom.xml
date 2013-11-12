@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Rails | CiudadReal-rb]]></title>
+  <link href="http://ciudadrealrb.github.com/blog/categories/rails/atom.xml" rel="self"/>
+  <link href="http://ciudadrealrb.github.com/"/>
+  <updated>2013-11-12T19:07:27+01:00</updated>
+  <id>http://ciudadrealrb.github.com/</id>
+  <author>
+    <name><![CDATA[CiudadReal-rb]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Configuración y despliegue de Redmine en una micro instancia]]></title>
+    <link href="http://ciudadrealrb.github.com/blog/2013/03/19/configuracion-y-despliegue-de-redmine-en-una-micro-instancia/"/>
+    <updated>2013-03-19T19:01:00+01:00</updated>
+    <id>http://ciudadrealrb.github.com/blog/2013/03/19/configuracion-y-despliegue-de-redmine-en-una-micro-instancia</id>
+    <content type="html"><![CDATA[<p><a href="http://redmine.org">Redmine</a> es una plataforma <em>open source</em> y gratuita
+de gestión de proyectos <strong>muy valorada</strong> entre la comunidad Ruby y Rails.</p>
+
+<p>Sus principales virtudes son una comunidad
+<a href="https://github.com/redmine/redmine">muy activa</a>, un <strong>enorme conjunto de
+características</strong> para gestión de proyectos software y un desarrollo
+extensible basado en Rails.</p>
+
+<!-- more -->
+
+
+<p>Os invitamos a leer un artículo en el que se detalla el proceso de
+configuración y despliegue de su versión más reciente en un servidor de
+características reducidas (o micro instancia) usando <strong>Apache</strong> o <strong>Nginx</strong>
+como <em>frontend</em> de procesos <strong>Unicorn</strong>.</p>
+
+<p>Por supuesto, el proceso mencionado en este artículo es aplicable a cualquier
+otro tipo de software basado en Rails y permite definir un
+<strong>entorno inicial</strong> para la configuración y despliegue de aplicaciones: <strong><a href="http://blog.davidanguita.name/2013/03/03/setting-up-a-cheap-redmine-server-using-unicorn-and-apache/">Setting up a cheap Redmine server using Unicorn and Apache</a>.</strong></p>
+]]></content>
+  </entry>
+  
+</feed>

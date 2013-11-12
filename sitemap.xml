@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://ciudadrealrb.github.com/blog/2012/10/28/hello-world/</loc>
+        <lastmod>2013-11-12T14:25:21+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://ciudadrealrb.github.com/blog/2013/03/19/configuracion-y-despliegue-de-redmine-en-una-micro-instancia/
+        </loc>
+        <lastmod>2013-11-12T14:08:22+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ciudadrealrb.github.com/blog/2013/11/12/ruby-and-beers-noviembre/</loc>
+        <lastmod>2013-11-12T18:23:02+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ciudadrealrb.github.com/blog/archives/</loc>
+        <lastmod>2013-11-12T18:23:02+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ciudadrealrb.github.com/blog/</loc>
+        <lastmod>2013-11-12T18:23:02+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ciudadrealrb.github.com/</loc>
+        <lastmod>2013-11-12T14:08:22+01:00</lastmod>
+    </url>
+</urlset>

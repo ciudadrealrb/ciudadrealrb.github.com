@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: meetups | CiudadReal-rb]]></title>
+  <link href="http://ciudadrealrb.github.com/blog/categories/meetups/atom.xml" rel="self"/>
+  <link href="http://ciudadrealrb.github.com/"/>
+  <updated>2013-11-12T19:07:27+01:00</updated>
+  <id>http://ciudadrealrb.github.com/</id>
+  <author>
+    <name><![CDATA[CiudadReal-rb]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Ruby &amp; Beers Noviembre]]></title>
+    <link href="http://ciudadrealrb.github.com/blog/2013/11/12/ruby-and-beers-noviembre/"/>
+    <updated>2013-11-12T14:22:00+01:00</updated>
+    <id>http://ciudadrealrb.github.com/blog/2013/11/12/ruby-and-beers-noviembre</id>
+    <content type="html"><![CDATA[<p>Nos complace anunciar la primera reunión oficial del grupo. Animada por
+algunos integrantes, se propone una quedada informal para conocernos,
+ponernos al día sobre el estado del grupo y echar una mano en su
+organización.</p>
+
+<h3>Fecha y hora</h3>
+
+<p>Jueves, <strong>21 de Noviembre</strong> a las <strong>19:00</strong></p>
+
+<h3>Lugar</h3>
+
+<p><em>Cervecería Lager</em><br/>
+<a href="http://goo.gl/maps/Ihbgh">Calle Compás de Santo Domingo, 11</a><br/>
+<a href="http://www.cervecerialager.es/">cervecerialager.es</a> / 926 255 129</p>
+
+<!-- more -->
+
+
+<h3>¿De qué va esto?</h3>
+
+<ul>
+<li>Conocernos. La comunidad Ruby es pequeña y deberíamos estar conectados.</li>
+<li>Hablar sobre el estado actual del grupo. Hay muchas ideas que debemos enfocar.</li>
+<li>Participar en la decisión de los próximos pasos.</li>
+<li>Proponer lugar o lugares de celebración.</li>
+<li>Buscar vías de colaboración.</li>
+<li>Ruegos, preguntas y cerveza.</li>
+</ul>
+
+
+<h3>Inscripción</h3>
+
+<p>No es necesario inscribirse, pero si puedes agregar un comentario en
+este mismo post confirmando tu asistencia nos ayudará a estar
+preparados.</p>
+
+<p>Mil gracias a los que estáis empujando para que esta comunidad arranque.
+Nos vemos.</p>
+]]></content>
+  </entry>
+  
+</feed>

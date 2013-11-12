@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[CiudadReal-rb]]></title>
+  <link href="http://ciudadrealrb.github.com/atom.xml" rel="self"/>
+  <link href="http://ciudadrealrb.github.com/"/>
+  <updated>2013-11-12T19:07:27+01:00</updated>
+  <id>http://ciudadrealrb.github.com/</id>
+  <author>
+    <name><![CDATA[CiudadReal-rb]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Ruby &amp; Beers Noviembre]]></title>
+    <link href="http://ciudadrealrb.github.com/blog/2013/11/12/ruby-and-beers-noviembre/"/>
+    <updated>2013-11-12T14:22:00+01:00</updated>
+    <id>http://ciudadrealrb.github.com/blog/2013/11/12/ruby-and-beers-noviembre</id>
+    <content type="html"><![CDATA[<p>Nos complace anunciar la primera reunión oficial del grupo. Animada por
+algunos integrantes, se propone una quedada informal para conocernos,
+ponernos al día sobre el estado del grupo y echar una mano en su
+organización.</p>
+
+<h3>Fecha y hora</h3>
+
+<p>Jueves, <strong>21 de Noviembre</strong> a las <strong>19:00</strong></p>
+
+<h3>Lugar</h3>
+
+<p><em>Cervecería Lager</em><br/>
+<a href="http://goo.gl/maps/Ihbgh">Calle Compás de Santo Domingo, 11</a><br/>
+<a href="http://www.cervecerialager.es/">cervecerialager.es</a> / 926 255 129</p>
+
+<!-- more -->
+
+
+<h3>¿De qué va esto?</h3>
+
+<ul>
+<li>Conocernos. La comunidad Ruby es pequeña y deberíamos estar conectados.</li>
+<li>Hablar sobre el estado actual del grupo. Hay muchas ideas que debemos enfocar.</li>
+<li>Participar en la decisión de los próximos pasos.</li>
+<li>Proponer lugar o lugares de celebración.</li>
+<li>Buscar vías de colaboración.</li>
+<li>Ruegos, preguntas y cerveza.</li>
+</ul>
+
+
+<h3>Inscripción</h3>
+
+<p>No es necesario inscribirse, pero si puedes agregar un comentario en
+este mismo post confirmando tu asistencia nos ayudará a estar
+preparados.</p>
+
+<p>Mil gracias a los que estáis empujando para que esta comunidad arranque.
+Nos vemos.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Configuración y despliegue de Redmine en una micro instancia]]></title>
+    <link href="http://ciudadrealrb.github.com/blog/2013/03/19/configuracion-y-despliegue-de-redmine-en-una-micro-instancia/"/>
+    <updated>2013-03-19T19:01:00+01:00</updated>
+    <id>http://ciudadrealrb.github.com/blog/2013/03/19/configuracion-y-despliegue-de-redmine-en-una-micro-instancia</id>
+    <content type="html"><![CDATA[<p><a href="http://redmine.org">Redmine</a> es una plataforma <em>open source</em> y gratuita
+de gestión de proyectos <strong>muy valorada</strong> entre la comunidad Ruby y Rails.</p>
+
+<p>Sus principales virtudes son una comunidad
+<a href="https://github.com/redmine/redmine">muy activa</a>, un <strong>enorme conjunto de
+características</strong> para gestión de proyectos software y un desarrollo
+extensible basado en Rails.</p>
+
+<!-- more -->
+
+
+<p>Os invitamos a leer un artículo en el que se detalla el proceso de
+configuración y despliegue de su versión más reciente en un servidor de
+características reducidas (o micro instancia) usando <strong>Apache</strong> o <strong>Nginx</strong>
+como <em>frontend</em> de procesos <strong>Unicorn</strong>.</p>
+
+<p>Por supuesto, el proceso mencionado en este artículo es aplicable a cualquier
+otro tipo de software basado en Rails y permite definir un
+<strong>entorno inicial</strong> para la configuración y despliegue de aplicaciones: <strong><a href="http://blog.davidanguita.name/2013/03/03/setting-up-a-cheap-redmine-server-using-unicorn-and-apache/">Setting up a cheap Redmine server using Unicorn and Apache</a>.</strong></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello, world!]]></title>
+    <link href="http://ciudadrealrb.github.com/blog/2012/10/28/hello-world/"/>
+    <updated>2012-10-28T17:35:00+01:00</updated>
+    <id>http://ciudadrealrb.github.com/blog/2012/10/28/hello-world</id>
+    <content type="html"><![CDATA[<p>Primer post del <em>Ciudad Real Ruby meetup group</em> (<strong>CiudadReal-rb</strong> en adelante, estaréis con nosotros en que suena mejor), por lo que toca contar de que va todo esto:</p>
+
+<p>Como ya imaginaréis, se trata de un grupo local (aunque, por supuesto, sin ningún tipo de restricción) que nace con el propósito de reunir a <em>Rubyistas</em>, curiosos e interesados en las distintas tecnologías basadas en <strong>Ruby</strong> como su mayor exponente <strong>Ruby on Rails</strong>.</p>
+
+<p>Se trata de un grupo inspirado en las pautas del conocimiento libre y que se basará en la convocatoria de reuniones periódicas con la frecuencia que determinemos los participantes. Éstas podrán estar organizadas en torno a una charla o presentación y su posterior discusión con el objetivo principal de <strong>aprender</strong> y fomentar las <strong>relaciones profesionales y personales</strong> entre todos nosotros.</p>
+
+<!-- more -->
+
+
+<h4>Estamos detrás de esta iniciativa&#8230;</h4>
+
+<p>Dos profesionales del sector de la consultoría y desarrollo de software:</p>
+
+<ul>
+<li><strong>David Anguita</strong>:
+<a href="http://twitter.com/danguita">@danguita</a>
+/
+<a href="http://davidanguita.name">http://davidanguita.name</a>
+/
+<a href="mailto:david@ciudadrealrb.org">david@ciudadrealrb.org</a></li>
+<li><strong>Luis Mayoral</strong>:
+<a href="http://twitter.com/mayoral">@mayoral</a>
+/
+<a href="http://luismayoral.com">http://luismayoral.com</a>
+/
+<a href="mailto:luis@ciudadrealrb.org">luis@ciudadrealrb.org</a></li>
+</ul>
+
+
+<h4>Resumen de servicios del grupo</h4>
+
+<ul>
+<li>Twitter: <a href="http://twitter.com/ciudadrealrb">@ciudadrealrb</a></li>
+<li>Mailing list: <a href="http://groups.google.com/group/ciudadrealrb/">Google Groups</a></li>
+<li>GitHub: <a href="http://github.com/ciudadrealrb">@ciudadrealrb</a></li>
+<li>email: <a href="mailto:info@ciudadrealrb.org">info@ciudadrealrb.org</a></li>
+</ul>
+
+
+<p>Aún estamos trabajando en la formación del grupo y pronto os informaremos sobre la primera convocatoria para que nos ayudéis a construirla y promoverla.</p>
+
+<p>Nos vemos, <em>Rubyistas</em>.</p>
+]]></content>
+  </entry>
+  
+</feed>

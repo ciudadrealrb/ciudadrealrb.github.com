@@ -5,11 +5,12 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>CiudadReal-rb</title>
+  <title>Configuración y despliegue de Redmine en una micro instancia - CiudadReal-rb</title>
   <meta name="author" content="CiudadReal-rb">
 
   
-  <meta name="description" content="Ciudad Real Ruby meetup group Grupo local (aunque, por supuesto, sin ningún tipo de restricción) que nace con el propósito de reunir a Rubyistas, &hellip;">
+  <meta name="description" content="Redmine es una plataforma open source y gratuita
+de gestión de proyectos muy valorada entre la comunidad Ruby y Rails. Sus principales virtudes son &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +19,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://ciudadrealrb.github.com/">
+  <link rel="canonical" href="http://ciudadrealrb.github.com/blog/2013/03/19/configuracion-y-despliegue-de-redmine-en-una-micro-instancia/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -64,30 +65,111 @@
   <div id="main">
     <div id="content">
       <div>
-<article role="article">
+<article class="hentry" role="article">
   
-  <p><img class="left" src="images/logo-128.png" title="ciudadreal-rb logo" ></p>
+  <header>
+    
+      <h1 class="entry-title">Configuración Y Despliegue De Redmine en Una Micro Instancia</h1>
+    
+    
+      <p class="meta">
+        
 
-<h4>Ciudad Real Ruby meetup group</h4>
 
-<p>Grupo local (aunque, por supuesto, sin ningún tipo de restricción) que nace con el propósito de reunir a <em>Rubyistas</em>, curiosos e interesados en las distintas tecnologías basadas en <a href="http://ruby-lang.org">Ruby</a> como su mayor exponente <a href="http://rubyonrails.org/">Ruby on Rails</a>.</p>
 
-<p>Puedes asistir libremente a las charlas y reuniones, iremos anunciando las próximas convocatorias a través del blog y otros medios. No es necesario que te registres, aunque anunciar tu asistencia nos ayudará a cubrir posibles problemas de aforo.</p>
 
-<p><a href="/blog/2012/10/28/hello-world">Más información</a></p>
 
-<h4>Puedes recibir actualizaciones o contactar con nosotros a través de estos medios</h4>
 
-<ul>
-<li>Twitter: <a href="http://twitter.com/ciudadrealrb">@ciudadrealrb</a></li>
-<li>Mailing list: <a href="http://groups.google.com/group/ciudadrealrb/">Google Groups</a></li>
-<li>GitHub: <a href="http://github.com/ciudadrealrb">@ciudadrealrb</a></li>
-<li>email: <a href="mailto:info@ciudadrealrb.org">info@ciudadrealrb.org</a></li>
-</ul>
 
 
   
+
+
+<time datetime="2013-03-19T19:01:00+01:00" pubdate data-updated="true">19/03/2013</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p><a href="http://redmine.org">Redmine</a> es una plataforma <em>open source</em> y gratuita
+de gestión de proyectos <strong>muy valorada</strong> entre la comunidad Ruby y Rails.</p>
+
+<p>Sus principales virtudes son una comunidad
+<a href="https://github.com/redmine/redmine">muy activa</a>, un <strong>enorme conjunto de
+características</strong> para gestión de proyectos software y un desarrollo
+extensible basado en Rails.</p>
+
+<!-- more -->
+
+
+<p>Os invitamos a leer un artículo en el que se detalla el proceso de
+configuración y despliegue de su versión más reciente en un servidor de
+características reducidas (o micro instancia) usando <strong>Apache</strong> o <strong>Nginx</strong>
+como <em>frontend</em> de procesos <strong>Unicorn</strong>.</p>
+
+<p>Por supuesto, el proceso mencionado en este artículo es aplicable a cualquier
+otro tipo de software basado en Rails y permite definir un
+<strong>entorno inicial</strong> para la configuración y despliegue de aplicaciones: <strong><a href="http://blog.davidanguita.name/2013/03/03/setting-up-a-cheap-redmine-server-using-unicorn-and-apache/">Setting up a cheap Redmine server using Unicorn and Apache</a>.</strong></p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">CiudadReal-rb</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-03-19T19:01:00+01:00" pubdate data-updated="true">19/03/2013</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/apache/'>Apache</a>, <a class='category' href='/blog/categories/nginx/'>Nginx</a>, <a class='category' href='/blog/categories/rails/'>Rails</a>, <a class='category' href='/blog/categories/redmine/'>Redmine</a>, <a class='category' href='/blog/categories/unicorn/'>Unicorn</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://ciudadrealrb.github.com/blog/2013/03/19/configuracion-y-despliegue-de-redmine-en-una-micro-instancia/" data-via="ciudadrealrb" data-counturl="http://ciudadrealrb.github.com/blog/2013/03/19/configuracion-y-despliegue-de-redmine-en-una-micro-instancia/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2012/10/28/hello-world/" title="Previous Post: Hello, world!">&laquo; Hello, world!</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2013/11/12/ruby-and-beers-noviembre/" title="Next Post: Ruby &amp; Beers Noviembre">Ruby &amp; Beers Noviembre &raquo;</a>
+      
+    </p>
+  </footer>
 </article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
 
 </div>
 
@@ -173,6 +255,22 @@
 
 </footer>
   
+
+<script type="text/javascript">
+      var disqus_shortname = 'ciudadrealrb';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://ciudadrealrb.github.com/blog/2013/03/19/configuracion-y-despliegue-de-redmine-en-una-micro-instancia/';
+        var disqus_url = 'http://ciudadrealrb.github.com/blog/2013/03/19/configuracion-y-despliegue-de-redmine-en-una-micro-instancia/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
 
 
 
