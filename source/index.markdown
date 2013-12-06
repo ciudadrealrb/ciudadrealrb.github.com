@@ -7,7 +7,7 @@ sharing: false
 footer: false
 ---
 
-{% img left images/logo-128.png ciudadreal-rb logo %}
+{% img left /images/logo-128.png ciudadreal-rb logo %}
 
 #### Ciudad Real Ruby meetup group
 
@@ -21,5 +21,6 @@ Puedes asistir libremente a las charlas y reuniones, iremos anunciando las próx
 
 * Twitter: [@ciudadrealrb](http://twitter.com/ciudadrealrb)
 * Mailing list: [Google Groups](http://groups.google.com/group/ciudadrealrb/)
+* Comunidad: [Google Communities](https://plus.google.com/communities/103528824980643486085)
 * GitHub: [@ciudadrealrb](http://github.com/ciudadrealrb)
 * email: [info@ciudadrealrb.org](mailto:info@ciudadrealrb.org)
