@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meetups | CiudadReal-rb]]></title>
   <link href="http://ciudadrealrb.github.com/blog/categories/meetups/atom.xml" rel="self"/>
   <link href="http://ciudadrealrb.github.com/"/>
-  <updated>2013-11-12T19:07:27+01:00</updated>
+  <updated>2013-12-06T12:47:09+01:00</updated>
   <id>http://ciudadrealrb.github.com/</id>
   <author>
     <name><![CDATA[CiudadReal-rb]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Reunión y Charla Diciembre]]></title>
+    <link href="http://ciudadrealrb.github.com/blog/2013/12/06/reunion-y-charla-diciembre/"/>
+    <updated>2013-12-06T12:00:00+01:00</updated>
+    <id>http://ciudadrealrb.github.com/blog/2013/12/06/reunion-y-charla-diciembre</id>
+    <content type="html"><![CDATA[<p>Tras la primera reunión del grupo, seguimos adelante y anunciamos lugar
+de celebración y charla gracias a nuestro nuevo colaborador
+<a href="http://despegamecr.com">Despegame, espacio de coworking</a>.</p>
+
+<h3>Fecha y hora</h3>
+
+<p>Miércoles, <strong>11 de Diciembre</strong> a las <strong>19:30</strong></p>
+
+<h3>Lugar</h3>
+
+<p>Despegame, espacio de coworking<br/>
+<a href="http://goo.gl/maps/33JC7">Calle País Valenciano, 5</a><br/>
+<a href="http://despegamecr.com">despegamecr.com</a> / 926 921 685</p>
+
+<!-- more -->
+
+
+<h3>Charla: <em>"Desarrolla Ruby Como Un Ninja"</em></h3>
+
+<p>Para romper el hielo, <a href="http://davidanguita.name">David Anguita</a> nos
+hablará sobre productividad en entornos de desarrollo Ruby contando su
+experiencia con <strong>Vim y Tmux</strong> y otros consejos para la dominación
+mundial desde el terminal.</p>
+
+<h3>Inscripción</h3>
+
+<p>No es necesario inscribirse, pero si puedes agregar un comentario en
+este mismo post confirmando tu asistencia nos ayudará a estar
+preparados.</p>
+
+<h3>Colaboran</h3>
+
+<p><img class="left" src="/images/despegame.png" title="collaborator despegame" ></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ruby &amp; Beers Noviembre]]></title>
