@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meetups | CiudadReal-rb]]></title>
   <link href="http://ciudadrealrb.github.com/blog/categories/meetups/atom.xml" rel="self"/>
   <link href="http://ciudadrealrb.github.com/"/>
-  <updated>2013-12-06T12:47:09+01:00</updated>
+  <updated>2014-01-18T12:49:19+01:00</updated>
   <id>http://ciudadrealrb.github.com/</id>
   <author>
     <name><![CDATA[CiudadReal-rb]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Reunión y Charla Enero]]></title>
+    <link href="http://ciudadrealrb.github.com/blog/2014/01/17/reunion-y-charla-enero/"/>
+    <updated>2014-01-17T12:00:00+01:00</updated>
+    <id>http://ciudadrealrb.github.com/blog/2014/01/17/reunion-y-charla-enero</id>
+    <content type="html"><![CDATA[<p>Con la primera reunión del año volvemos a cambiar de localización, en
+esta ocasión nos ceden un espacio en la <strong>Escuela Superior de
+Informática</strong>.</p>
+
+<h3>Fecha y hora</h3>
+
+<p>Miércoles, <strong>22 de Enero</strong> a las <strong>19:00</strong></p>
+
+<h3>Lugar</h3>
+
+<p>Escuela Superior de Informática de Ciudad Real<br/>
+<a href="http://goo.gl/maps/VY85X">Paseo de la Universidad, 4</a><br/>
+<a href="http://www.esi.uclm.es/">www.esi.uclm.es</a><br/>
+<small>Nos vemos en el hall y desde allí nos dirigimos al aula.</small></p>
+
+<!-- more -->
+
+
+<h3>Charla: <em>"Gemas comunes en una aplicación Ruby on Rails"</em></h3>
+
+<p><a href="https://twitter.com/josema_guzman">Josema Guzmán</a> nos hablará sobre una
+selección de gemas interesantes en aplicaciones Rails.</p>
+
+<h3>Colaboran</h3>
+
+<p><img class="left" src="/images/esi.png" title="collaborator esi" ></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Reunión y Charla Diciembre]]></title>
