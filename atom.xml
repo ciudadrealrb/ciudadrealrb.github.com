@@ -4,7 +4,7 @@
   <title><![CDATA[CiudadReal-rb]]></title>
   <link href="http://ciudadrealrb.github.com/atom.xml" rel="self"/>
   <link href="http://ciudadrealrb.github.com/"/>
-  <updated>2014-01-18T12:49:19+01:00</updated>
+  <updated>2014-02-19T20:17:31+01:00</updated>
   <id>http://ciudadrealrb.github.com/</id>
   <author>
     <name><![CDATA[CiudadReal-rb]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Reunión y Charla Febrero]]></title>
+    <link href="http://ciudadrealrb.github.com/blog/2014/02/19/reunion-y-charla-febrero/"/>
+    <updated>2014-02-19T20:00:00+01:00</updated>
+    <id>http://ciudadrealrb.github.com/blog/2014/02/19/reunion-y-charla-febrero</id>
+    <content type="html"><![CDATA[<h3>Fecha y hora</h3>
+
+<p>Miércoles, <strong>26 de Febrero</strong> a las <strong>19:00</strong></p>
+
+<h3>Lugar</h3>
+
+<p>Escuela Superior de Informática de Ciudad Real<br/>
+<a href="http://goo.gl/maps/VY85X">Paseo de la Universidad, 4</a><br/>
+<a href="http://www.esi.uclm.es/">www.esi.uclm.es</a><br/>
+<small>Nos vemos en el hall y desde allí nos dirigimos al aula.</small></p>
+
+<!-- more -->
+
+
+<h3>Charla: <em>&#8220;MongoDB y Ruby on Rails&#8221;</em></h3>
+
+<p><a href="http://www.dpzaba.com/">David Pérez</a> nos hablará de su experiencia con
+MongoDB en aplicaciones Ruby on Rails. Será una reunión conjunta con los
+compañeros del grupo local <a href="https://sites.google.com/site/agileciudadreal/">agile-cr</a>.</p>
+
+<h3>Colaboran</h3>
+
+<p><img class="left" src="http://ciudadrealrb.github.com/images/esi.png" title="collaborator esi" ></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Reunión y Charla Enero]]></title>
