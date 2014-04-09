@@ -4,7 +4,7 @@
   <title><![CDATA[CiudadReal-rb]]></title>
   <link href="http://ciudadrealrb.github.com/atom.xml" rel="self"/>
   <link href="http://ciudadrealrb.github.com/"/>
-  <updated>2014-02-19T20:17:31+01:00</updated>
+  <updated>2014-04-09T12:45:37+02:00</updated>
   <id>http://ciudadrealrb.github.com/</id>
   <author>
     <name><![CDATA[CiudadReal-rb]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Reunión y Charla Abril]]></title>
+    <link href="http://ciudadrealrb.github.com/blog/2014/04/09/reunion-y-charla-abril/"/>
+    <updated>2014-04-09T13:00:00+02:00</updated>
+    <id>http://ciudadrealrb.github.com/blog/2014/04/09/reunion-y-charla-abril</id>
+    <content type="html"><![CDATA[<h3>Fecha y hora</h3>
+
+<p>Miércoles, <strong>16 de Abril</strong> a las <strong>19:00</strong></p>
+
+<h3>Lugar</h3>
+
+<p>Biblioteca Pública de Ciudad Real<br/>
+<a href="http://goo.gl/lTzW65">Avda. Ferrocarril S/N</a><br/>
+<a href="http://www.bibliotecaspublicas.es/ciudadreal/">http://bibliotecaspublicas.es/ciudadreal</a><br/>
+<small>(Aula de formación de la primera planta)</small></p>
+
+<!-- more -->
+
+
+<h3>Charla: <em>puts &#8216;Hola Ruby on Rails&#8217;</em></h3>
+
+<p><a href="http://marcos-martin.aws.af.cm/">Marcos Martín</a> nos propone una
+revisión personal desde cero (o casi) de uno de los frameworks más
+populares para la comunidad Ruby:
+<a href="http://rubyonrails.org/">Ruby on Rails</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Reunión y Charla Febrero]]></title>
