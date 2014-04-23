@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: meetups | CiudadReal-rb]]></title>
+  <title><![CDATA[Category: meetups | CiudadReal.rb]]></title>
   <link href="http://ciudadrealrb.github.com/blog/categories/meetups/atom.xml" rel="self"/>
   <link href="http://ciudadrealrb.github.com/"/>
-  <updated>2014-04-23T13:57:54+02:00</updated>
+  <updated>2014-04-23T14:00:46+02:00</updated>
   <id>http://ciudadrealrb.github.com/</id>
   <author>
-    <name><![CDATA[CiudadReal-rb]]></name>
+    <name><![CDATA[CiudadReal.rb]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
