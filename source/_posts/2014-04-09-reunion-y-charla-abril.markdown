@@ -25,3 +25,12 @@ Biblioteca Pública de Ciudad Real
 revisión personal desde cero (o casi) de uno de los frameworks más
 populares para la comunidad Ruby:
 [Ruby on Rails](http://rubyonrails.org/).
+
+## Actualizado 23/04
+
+Marcos ha compartido todo el material de su charla a través del
+siguiente enlace:
+
+[Material de puts 'Hola Ruby on Rails'](http://marcos-martin.aws.af.cm/blogs/conferencia-ruby-on-rails-en-ciudad-real)
+
+¡Gracias Marcos!
