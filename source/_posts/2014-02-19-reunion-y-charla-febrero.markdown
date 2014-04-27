@@ -25,6 +25,12 @@ Escuela Superior de Informática de Ciudad Real
 MongoDB en aplicaciones Ruby on Rails. Será una reunión conjunta con los
 compañeros del grupo local [agile-cr](https://sites.google.com/site/agileciudadreal/).
 
+David ha compartido el material de su charla a través del siguiente enlace:
+
+[Material de MongoDB y Ruby on Rails](https://github.com/dpzaba/mongodb-slides)
+
+
+
 ### Colaboran
 
 {% img left /images/esi.png collaborator esi %}
