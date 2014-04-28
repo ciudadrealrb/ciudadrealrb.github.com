@@ -26,7 +26,7 @@ revisión personal desde cero (o casi) de uno de los frameworks más
 populares para la comunidad Ruby:
 [Ruby on Rails](http://rubyonrails.org/).
 
-## Actualizado 23/04
+## Actualizado
 
 Marcos ha compartido todo el material de su charla a través del
 siguiente enlace:
