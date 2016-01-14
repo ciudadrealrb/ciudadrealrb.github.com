@@ -4,7 +4,7 @@
   <title><![CDATA[CiudadReal.rb]]></title>
   <link href="http://ciudadrealrb.github.com/atom.xml" rel="self"/>
   <link href="http://ciudadrealrb.github.com/"/>
-  <updated>2016-01-14T20:23:20+01:00</updated>
+  <updated>2016-01-14T20:27:18+01:00</updated>
   <id>http://ciudadrealrb.github.com/</id>
   <author>
     <name><![CDATA[CiudadReal.rb]]></name>
@@ -20,7 +20,7 @@
     <id>http://ciudadrealrb.github.com/blog/2016/01/14/reunion-y-charla-enero</id>
     <content type="html"><![CDATA[<p>Tras un (enorme) parón, unos cuantos locos hemos decidido volver a la
 carga con esta iniciativa. Esperamos que los Rubyistas que participaban
-en estos eventos allá por 2013 sigan por aquí y volvamos a encontrarnos.</p>
+en estos eventos allá por 2014 sigan por aquí y volvamos a encontrarnos.</p>
 
 <p>Con todo este tiempo de inactividad necesitaremos todas las manos
 posibles en la difusión del evento, ¡se agradece cada <em>share</em>!</p>
@@ -40,7 +40,7 @@ posibles en la difusión del evento, ¡se agradece cada <em>share</em>!</p>
 <h3>Charla: <em>&#8220;Docker 101 para Rubyistas&#8221;</em></h3>
 
 <p><a href="http://davidanguita.name">David Anguita</a> hará una introducción al mundo
-de los software containers con <strong>Docker</strong>, y veremos algunos casos de
+de los <em>software containers</em> con <strong>Docker</strong>, y veremos algunos casos de
 uso en entornos basados en Ruby. ¿Te apuntas?</p>
 
 <h3>Colaboran</h3>
