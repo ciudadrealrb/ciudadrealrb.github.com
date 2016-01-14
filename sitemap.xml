@@ -2,44 +2,48 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://ciudadrealrb.github.com/blog/2012/10/28/hello-world/</loc>
-        <lastmod>2013-11-12T14:25:21+01:00</lastmod>
+        <lastmod>2016-01-14T20:00:21+01:00</lastmod>
     </url>
     <url>
         <loc>
             http://ciudadrealrb.github.com/blog/2013/03/19/configuracion-y-despliegue-de-redmine-en-una-micro-instancia/
         </loc>
-        <lastmod>2013-11-12T14:08:22+01:00</lastmod>
+        <lastmod>2016-01-14T20:00:21+01:00</lastmod>
     </url>
     <url>
         <loc>http://ciudadrealrb.github.com/blog/2013/11/12/ruby-and-beers-noviembre/</loc>
-        <lastmod>2013-11-12T18:23:02+01:00</lastmod>
+        <lastmod>2016-01-14T20:00:21+01:00</lastmod>
     </url>
     <url>
         <loc>http://ciudadrealrb.github.com/blog/2013/12/06/reunion-y-charla-diciembre/</loc>
-        <lastmod>2013-12-06T12:45:28+01:00</lastmod>
+        <lastmod>2016-01-14T20:00:21+01:00</lastmod>
     </url>
     <url>
         <loc>http://ciudadrealrb.github.com/blog/2014/01/17/reunion-y-charla-enero/</loc>
-        <lastmod>2014-01-18T12:48:54+01:00</lastmod>
+        <lastmod>2016-01-14T20:00:21+01:00</lastmod>
     </url>
     <url>
         <loc>http://ciudadrealrb.github.com/blog/2014/02/19/reunion-y-charla-febrero/</loc>
-        <lastmod>2014-04-28T07:44:50+02:00</lastmod>
+        <lastmod>2016-01-14T20:00:21+01:00</lastmod>
     </url>
     <url>
         <loc>http://ciudadrealrb.github.com/blog/2014/04/09/reunion-y-charla-abril/</loc>
-        <lastmod>2014-04-28T07:41:28+02:00</lastmod>
+        <lastmod>2016-01-14T20:00:21+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ciudadrealrb.github.com/blog/2016/01/14/reunion-y-charla-enero/</loc>
+        <lastmod>2016-01-14T20:22:58+01:00</lastmod>
     </url>
     <url>
         <loc>http://ciudadrealrb.github.com/blog/archives/</loc>
-        <lastmod>2014-04-28T07:44:50+02:00</lastmod>
+        <lastmod>2016-01-14T20:22:58+01:00</lastmod>
     </url>
     <url>
         <loc>http://ciudadrealrb.github.com/blog/</loc>
-        <lastmod>2014-04-28T07:44:50+02:00</lastmod>
+        <lastmod>2016-01-14T20:22:58+01:00</lastmod>
     </url>
     <url>
         <loc>http://ciudadrealrb.github.com/</loc>
-        <lastmod>2013-12-06T12:33:19+01:00</lastmod>
+        <lastmod>2016-01-14T20:00:21+01:00</lastmod>
     </url>
 </urlset>

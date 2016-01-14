@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meetups | CiudadReal.rb]]></title>
   <link href="http://ciudadrealrb.github.com/blog/categories/meetups/atom.xml" rel="self"/>
   <link href="http://ciudadrealrb.github.com/"/>
-  <updated>2014-04-28T07:44:54+02:00</updated>
+  <updated>2016-01-14T20:23:20+01:00</updated>
   <id>http://ciudadrealrb.github.com/</id>
   <author>
     <name><![CDATA[CiudadReal.rb]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Estamos de vuelta: Reunión y Charla Enero]]></title>
+    <link href="http://ciudadrealrb.github.com/blog/2016/01/14/reunion-y-charla-enero/"/>
+    <updated>2016-01-14T21:00:00+01:00</updated>
+    <id>http://ciudadrealrb.github.com/blog/2016/01/14/reunion-y-charla-enero</id>
+    <content type="html"><![CDATA[<p>Tras un (enorme) parón, unos cuantos locos hemos decidido volver a la
+carga con esta iniciativa. Esperamos que los Rubyistas que participaban
+en estos eventos allá por 2013 sigan por aquí y volvamos a encontrarnos.</p>
+
+<p>Con todo este tiempo de inactividad necesitaremos todas las manos
+posibles en la difusión del evento, ¡se agradece cada <em>share</em>!</p>
+
+<h3>Fecha y hora</h3>
+
+<p>Viernes, <strong>29 de Enero</strong> a las <strong>19:00</strong></p>
+
+<h3>Lugar</h3>
+
+<p>Despegame, espacio de coworking<br/>
+<a href="https://goo.gl/maps/PgQ88oCgUW32">Plaza Cervantes 6, Planta 5</a></p>
+
+<!-- more -->
+
+
+<h3>Charla: <em>"Docker 101 para Rubyistas"</em></h3>
+
+<p><a href="http://davidanguita.name">David Anguita</a> hará una introducción al mundo
+de los software containers con <strong>Docker</strong>, y veremos algunos casos de
+uso en entornos basados en Ruby. ¿Te apuntas?</p>
+
+<h3>Colaboran</h3>
+
+<p><img class="left" src="/images/despegame.png" title="collaborator despegame" >
+<img class="left" src="/images/bizneo.png" title="collaborator bizneo" ></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Reunión y Charla Abril]]></title>
@@ -162,52 +199,6 @@ preparados.</p>
 <h3>Colaboran</h3>
 
 <p><img class="left" src="/images/despegame.png" title="collaborator despegame" ></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ruby &amp; Beers Noviembre]]></title>
-    <link href="http://ciudadrealrb.github.com/blog/2013/11/12/ruby-and-beers-noviembre/"/>
-    <updated>2013-11-12T14:22:00+01:00</updated>
-    <id>http://ciudadrealrb.github.com/blog/2013/11/12/ruby-and-beers-noviembre</id>
-    <content type="html"><![CDATA[<p>Nos complace anunciar la primera reunión oficial del grupo. Animada por
-algunos integrantes, se propone una quedada informal para conocernos,
-ponernos al día sobre el estado del grupo y echar una mano en su
-organización.</p>
-
-<h3>Fecha y hora</h3>
-
-<p>Jueves, <strong>21 de Noviembre</strong> a las <strong>19:00</strong></p>
-
-<h3>Lugar</h3>
-
-<p><em>Cervecería Lager</em><br/>
-<a href="http://goo.gl/maps/Ihbgh">Calle Compás de Santo Domingo, 11</a><br/>
-<a href="http://www.cervecerialager.es/">cervecerialager.es</a> / 926 255 129</p>
-
-<!-- more -->
-
-
-<h3>¿De qué va esto?</h3>
-
-<ul>
-<li>Conocernos. La comunidad Ruby es pequeña y deberíamos estar conectados.</li>
-<li>Hablar sobre el estado actual del grupo. Hay muchas ideas que debemos enfocar.</li>
-<li>Participar en la decisión de los próximos pasos.</li>
-<li>Proponer lugar o lugares de celebración.</li>
-<li>Buscar vías de colaboración.</li>
-<li>Ruegos, preguntas y cerveza.</li>
-</ul>
-
-
-<h3>Inscripción</h3>
-
-<p>No es necesario inscribirse, pero si puedes agregar un comentario en
-este mismo post confirmando tu asistencia nos ayudará a estar
-preparados.</p>
-
-<p>Mil gracias a los que estáis empujando para que esta comunidad arranque.
-Nos vemos.</p>
 ]]></content>
   </entry>
   
