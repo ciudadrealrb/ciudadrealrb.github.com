@@ -34,3 +34,4 @@ uso en entornos basados en Ruby. ¿Te apuntas?
 
 {% img left /images/despegame.png collaborator despegame %}
 {% img left /images/bizneo.png collaborator bizneo %}
+{% img left /images/feebbo.png collaborator feebbo %}
