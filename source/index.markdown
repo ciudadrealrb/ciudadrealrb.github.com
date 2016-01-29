@@ -11,16 +11,16 @@ footer: false
 
 #### Ciudad Real Ruby meetup group
 
-Grupo local (aunque, por supuesto, sin ningún tipo de restricción) que nace con el propósito de reunir a *Rubyistas*, curiosos e interesados en las distintas tecnologías basadas en [Ruby](http://ruby-lang.org) como su mayor exponente [Ruby on Rails](http://rubyonrails.org/).
+Grupo local (aunque, por supuesto, sin ningún tipo de restricción) que nace con el propósito de reunir a *Rubyistas*, curiosos e interesados en el ecosistema de tecnologías [Ruby](http://ruby-lang.org).
 
 Puedes asistir libremente a las charlas y reuniones, iremos anunciando las próximas convocatorias a través del blog y otros medios. No es necesario que te registres, aunque anunciar tu asistencia nos ayudará a cubrir posibles problemas de aforo.
 
-[Más información]({{ root_url }}/blog/2012/10/28/hello-world)
+¡Bienvenido!
 
-#### Puedes recibir actualizaciones o contactar con nosotros a través de estos medios
+#### Puedes mantenerte al día o participar en la comunidad a través de estos medios
 
+* Slack: [slack.ciudadrealrb.org](http://slack.ciudadrealrb.org)
 * Twitter: [@ciudadrealrb](http://twitter.com/ciudadrealrb)
 * Mailing list: [Google Groups](http://groups.google.com/group/ciudadrealrb/)
 * Comunidad: [Google Communities](https://plus.google.com/communities/103528824980643486085)
 * GitHub: [@ciudadrealrb](http://github.com/ciudadrealrb)
-* email: [info@ciudadrealrb.org](mailto:info@ciudadrealrb.org)
