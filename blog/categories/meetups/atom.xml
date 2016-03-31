@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meetups | CiudadReal.rb]]></title>
   <link href="http://ciudadrealrb.github.com/blog/categories/meetups/atom.xml" rel="self"/>
   <link href="http://ciudadrealrb.github.com/"/>
-  <updated>2016-03-31T15:08:19+02:00</updated>
+  <updated>2016-03-31T15:10:52+02:00</updated>
   <id>http://ciudadrealrb.github.com/</id>
   <author>
     <name><![CDATA[CiudadReal.rb]]></name>
@@ -36,14 +36,13 @@ dejamos con todos los detalles:</p>
 <h3>Charla: <em>"PayPal on Rails"</em></h3>
 
 <p><a href="http://marcosmartingm.es/">Marcos Martín</a> compartirá su experiencia
-práctica en la integración de pagos con PayPal en aplicaciones Ruby on
-Rails.</p>
+práctica en la integración de PayPal en aplicaciones Ruby on Rails.</p>
 
 <h3>Colaboran</h3>
 
-<p>{% img left /images/despegame.png collaborator despegame %}
-{% img left /images/bizneo.png collaborator bizneo %}
-{% img left /images/feebbo.png collaborator feebbo %}</p>
+<p><img class="left" src="/images/despegame.png" title="collaborator despegame" >
+<img class="left" src="/images/bizneo.png" title="collaborator bizneo" >
+<img class="left" src="/images/feebbo.png" title="collaborator feebbo" ></p>
 ]]></content>
   </entry>
   
@@ -76,9 +75,9 @@ jugaremos con este pequeño monstruo.</p>
 
 <h3>Colaboran</h3>
 
-<p>{% img left /images/despegame.png collaborator despegame %}
-{% img left /images/bizneo.png collaborator bizneo %}
-{% img left /images/feebbo.png collaborator feebbo %}</p>
+<p><img class="left" src="/images/despegame.png" title="collaborator despegame" >
+<img class="left" src="/images/bizneo.png" title="collaborator bizneo" >
+<img class="left" src="/images/feebbo.png" title="collaborator feebbo" ></p>
 ]]></content>
   </entry>
   
@@ -114,9 +113,9 @@ uso en entornos basados en Ruby. ¿Te apuntas?</p>
 
 <h3>Colaboran</h3>
 
-<p>{% img left /images/despegame.png collaborator despegame %}
-{% img left /images/bizneo.png collaborator bizneo %}
-{% img left /images/feebbo.png collaborator feebbo %}</p>
+<p><img class="left" src="/images/despegame.png" title="collaborator despegame" >
+<img class="left" src="/images/bizneo.png" title="collaborator bizneo" >
+<img class="left" src="/images/feebbo.png" title="collaborator feebbo" ></p>
 ]]></content>
   </entry>
   
@@ -193,7 +192,7 @@ enlace:</p>
 
 <h3>Colaboran</h3>
 
-<p>{% img left /images/esi.png collaborator esi %}</p>
+<p><img class="left" src="/images/esi.png" title="collaborator esi" ></p>
 ]]></content>
   </entry>
   
