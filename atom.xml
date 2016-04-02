@@ -4,7 +4,7 @@
   <title><![CDATA[CiudadReal.rb]]></title>
   <link href="http://ciudadrealrb.github.com/atom.xml" rel="self"/>
   <link href="http://ciudadrealrb.github.com/"/>
-  <updated>2016-04-02T08:46:57+02:00</updated>
+  <updated>2016-04-02T08:50:55+02:00</updated>
   <id>http://ciudadrealrb.github.com/</id>
   <author>
     <name><![CDATA[CiudadReal.rb]]></name>
@@ -126,6 +126,11 @@ posibles en la difusión del evento, ¡se agradece cada <em>share</em>!</p>
 <p><a href="http://davidanguita.name">David Anguita</a> hará una introducción al mundo
 de los <em>software containers</em> con <strong>Docker</strong>, y veremos algunos casos de
 uso en entornos basados en Ruby. ¿Te apuntas?</p>
+
+<h4>Actualizado</h4>
+
+<p>Todo el material de la charla está disponible en la siguiente URL:
+<a href="https://github.com/danguita/talks/tree/master/docker-101-rubyist-edition">danguita/talks</a>.</p>
 
 <h3>Colaboran</h3>
 
