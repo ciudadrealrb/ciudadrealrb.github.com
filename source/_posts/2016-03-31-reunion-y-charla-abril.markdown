@@ -23,7 +23,20 @@ Despegame, espacio de coworking
 ### Charla: *"PayPal on Rails"*
 
 [Marcos Martín](http://marcosmartingm.es/) compartirá su experiencia
-práctica en la integración de PayPal en aplicaciones Ruby on Rails.
+práctica en la integración de PayPal en aplicaciones Ruby on Rails. El
+propio Marcos nos deja un banner para su charla:
+
+{% img /images/2016-03-31-reunion-y-charla-abril/marcos-talk-cover.jpg marcos-talk-cover %}
+
+¡Gracias!
+
+### Inscripción
+
+Aunque no es necesario confirmar asistencia, si tienes pensado asistir
+sería de gran ayuda estar inscrito en el siguiente Evento en Meetup para
+evitar cualquier problema de aforo:
+
+- [Reunión de Abril en CiudadReal.rb](http://www.meetup.com/es-ES/ciudadrealrb/events/230040450/)
 
 ### Colaboran
 
