@@ -30,6 +30,11 @@ Despegame, espacio de coworking
 de los *software containers* con **Docker**, y veremos algunos casos de
 uso en entornos basados en Ruby. ¿Te apuntas?
 
+#### Actualizado
+
+Todo el material de la charla está disponible en la siguiente URL:
+[danguita/talks](https://github.com/danguita/talks/tree/master/docker-101-rubyist-edition).
+
 ### Colaboran
 
 {% img left /images/despegame.png collaborator despegame %}
