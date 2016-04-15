@@ -76,10 +76,11 @@
 
 <p>¡Bienvenido!</p>
 
-<h4>Puedes mantenerte al día o participar en la comunidad a través de estos medios</h4>
+<h4>Puedes mantenerte al día o participar en la comunidad a través de:</h4>
 
 <ul>
-<li>Slack: <a href="http://slack.ciudadrealrb.org">slack.ciudadrealrb.org</a></li>
+<li>Slack: <a href="http://slack.ciudadrealrb.org">slack.ciudadrealrb.org</a> <script async defer src="http://slack.ciudadrealrb.org/slackin.js"></script></li>
+<li>Meetup: <a href="http://www.meetup.com/es-ES/ciudadrealrb/">ciudadrealrb</a></li>
 <li>Twitter: <a href="http://twitter.com/ciudadrealrb">@ciudadrealrb</a></li>
 <li>Mailing list: <a href="http://groups.google.com/group/ciudadrealrb/">Google Groups</a></li>
 <li>Comunidad: <a href="https://plus.google.com/communities/103528824980643486085">Google Communities</a></li>
@@ -120,53 +121,6 @@
     
   </ul>
 </section>
-
-<section>
-  <h1>GitHub Repos</h1>
-  <ul id="gh_repos">
-    <li class="loading">Status updating...</li>
-  </ul>
-  
-  <a href="https://github.com/ciudadrealrb">@ciudadrealrb</a> on GitHub
-  
-  <script type="text/javascript">
-    $.domReady(function(){
-        if (!window.jXHR){
-            var jxhr = document.createElement('script');
-            jxhr.type = 'text/javascript';
-            jxhr.src = '/javascripts/libs/jXHR.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(jxhr, s);
-        }
-
-        github.showRepos({
-            user: 'ciudadrealrb',
-            count: 1,
-            skip_forks: true,
-            target: '#gh_repos'
-        });
-    });
-  </script>
-  <script src="/javascripts/github.js" type="text/javascript"> </script>
-</section>
-
-
-<section>
-  <h1>Latest Tweets</h1>
-  <ul id="tweets">
-    <li class="loading">Status updating...</li>
-  </ul>
-  <script type="text/javascript">
-    $.domReady(function(){
-      getTwitterFeed("ciudadrealrb", 4, false);
-    });
-  </script>
-  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
-  
-    <a href="http://twitter.com/ciudadrealrb" class="twitter-follow-button" data-show-count="false">Follow @ciudadrealrb</a>
-  
-</section>
-
 
   
 </aside>
