@@ -20,6 +20,7 @@ Puedes asistir libremente a las charlas y reuniones, iremos anunciando las próx
 #### Puedes mantenerte al día o participar en la comunidad a través de:
 
 * Slack: [slack.ciudadrealrb.org](http://slack.ciudadrealrb.org) <script async defer src="http://slack.ciudadrealrb.org/slackin.js"></script>
+* Meetup: [ciudadrealrb](http://www.meetup.com/es-ES/ciudadrealrb/)
 * Twitter: [@ciudadrealrb](http://twitter.com/ciudadrealrb)
 * Mailing list: [Google Groups](http://groups.google.com/group/ciudadrealrb/)
 * Comunidad: [Google Communities](https://plus.google.com/communities/103528824980643486085)
