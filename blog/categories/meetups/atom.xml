@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meetups | CiudadReal.rb]]></title>
   <link href="http://ciudadrealrb.github.com/blog/categories/meetups/atom.xml" rel="self"/>
   <link href="http://ciudadrealrb.github.com/"/>
-  <updated>2016-04-15T08:28:29+02:00</updated>
+  <updated>2016-05-03T12:24:31+02:00</updated>
   <id>http://ciudadrealrb.github.com/</id>
   <author>
     <name><![CDATA[CiudadReal.rb]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Reunión y Charla Mayo]]></title>
+    <link href="http://ciudadrealrb.github.com/blog/2016/05/03/reunion-y-charla-mayo/"/>
+    <updated>2016-05-03T14:00:00+02:00</updated>
+    <id>http://ciudadrealrb.github.com/blog/2016/05/03/reunion-y-charla-mayo</id>
+    <content type="html"><![CDATA[<p>¿Ya ha pasado otro mes? Sí, y la fecha para la reunión de Mayo ya
+estaba tardando en llegar. Allá vamos:</p>
+
+<h3>Fecha y hora</h3>
+
+<p>Jueves, <strong>12 de Mayo</strong> a las <strong>19:00</strong></p>
+
+<h3>Lugar</h3>
+
+<p>Despegame, espacio de coworking<br/>
+<a href="https://goo.gl/maps/PgQ88oCgUW32">Plaza Cervantes 6, Planta 5</a></p>
+
+<!-- more -->
+
+
+<h3>Charla: <em>"Dr. Jekyll &amp; Mr. Ruby"</em></h3>
+
+<p>El señor <a href="https://twitter.com/soyunrandom">Sergio Sánchez</a>
+nos hablará de su experiencia con <a href="https://jekyllrb.com/">Jekyll</a>, el
+popular generador de sitios web estáticos escrito en Ruby.
+Minipunto para él por el título de la charla ;)</p>
+
+<h3>Colaboran</h3>
+
+<p><img class="left" src="/images/despegame.png" title="collaborator despegame" >
+<img class="left" src="/images/bizneo.png" title="collaborator bizneo" >
+<img class="left" src="/images/feebbo.png" title="collaborator feebbo" ></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Reunión y Charla Abril]]></title>
@@ -174,46 +209,6 @@ siguiente enlace:</p>
 <p><a href="http://marcos-martin.aws.af.cm/blogs/conferencia-ruby-on-rails-en-ciudad-real">Material de puts 'Hola Ruby on Rails'</a></p>
 
 <p>¡Gracias Marcos!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Reunión y Charla Febrero]]></title>
-    <link href="http://ciudadrealrb.github.com/blog/2014/02/19/reunion-y-charla-febrero/"/>
-    <updated>2014-02-19T20:00:00+01:00</updated>
-    <id>http://ciudadrealrb.github.com/blog/2014/02/19/reunion-y-charla-febrero</id>
-    <content type="html"><![CDATA[<h3>Fecha y hora</h3>
-
-<p>Miércoles, <strong>26 de Febrero</strong> a las <strong>19:00</strong></p>
-
-<h3>Lugar</h3>
-
-<p>Escuela Superior de Informática de Ciudad Real<br/>
-<a href="http://goo.gl/maps/VY85X">Paseo de la Universidad, 4</a><br/>
-<a href="http://www.esi.uclm.es/">www.esi.uclm.es</a><br/>
-<small>Nos vemos en el hall y desde allí nos dirigimos al aula.</small></p>
-
-<!-- more -->
-
-
-<h3>Charla: <em>"MongoDB y Ruby on Rails"</em></h3>
-
-<p><a href="http://www.dpzaba.com/">David Pérez</a> nos hablará de su experiencia con
-MongoDB en aplicaciones Ruby on Rails. Será una reunión conjunta con los
-compañeros del grupo local <a href="https://sites.google.com/site/agileciudadreal/">agile-cr</a>.</p>
-
-<h2>Actualizado</h2>
-
-<p>David ha compartido el material de su charla a través del siguiente
-enlace:</p>
-
-<p><a href="https://github.com/dpzaba/mongodb-slides">Material de MongoDB y Ruby on Rails</a></p>
-
-<p>¡Gracias!</p>
-
-<h3>Colaboran</h3>
-
-<p><img class="left" src="/images/esi.png" title="collaborator esi" ></p>
 ]]></content>
   </entry>
   
