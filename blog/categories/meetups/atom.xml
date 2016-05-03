@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meetups | CiudadReal.rb]]></title>
   <link href="http://ciudadrealrb.github.com/blog/categories/meetups/atom.xml" rel="self"/>
   <link href="http://ciudadrealrb.github.com/"/>
-  <updated>2016-05-03T12:34:25+02:00</updated>
+  <updated>2016-05-03T12:37:01+02:00</updated>
   <id>http://ciudadrealrb.github.com/</id>
   <author>
     <name><![CDATA[CiudadReal.rb]]></name>
@@ -53,11 +53,9 @@ evitar cualquier problema de aforo:</p>
 
 <h3>Colaboran</h3>
 
-<p><img class="left" src="/images/despegame.png" title="collaborator despegame" >
-<img class="left" src="/images/bizneo.png" title="collaborator bizneo" >
-<img class="left" src="/images/feebbo.png" title="collaborator feebbo" ></p>
-
-<p>http://ciudadrealrb.org/blog/2016/05/03/reunion-y-charla-mayo/</p>
+<p>{% img left /images/despegame.png collaborator despegame %}
+{% img left /images/bizneo.png collaborator bizneo %}
+{% img left /images/feebbo.png collaborator feebbo %}</p>
 ]]></content>
   </entry>
   
@@ -87,7 +85,7 @@ dejamos con todos los detalles:</p>
 práctica en la integración de PayPal en aplicaciones Ruby on Rails. El
 propio Marcos nos deja un banner para su charla:</p>
 
-<p><img src="/images/2016-03-31-reunion-y-charla-abril/marcos-talk-cover.jpg" title="marcos-talk-cover" ></p>
+<p>{% img /images/2016-03-31-reunion-y-charla-abril/marcos-talk-cover.jpg marcos-talk-cover %}</p>
 
 <p>¡Gracias!</p>
 
@@ -104,9 +102,9 @@ evitar cualquier problema de aforo:</p>
 
 <h3>Colaboran</h3>
 
-<p><img class="left" src="/images/despegame.png" title="collaborator despegame" >
-<img class="left" src="/images/bizneo.png" title="collaborator bizneo" >
-<img class="left" src="/images/feebbo.png" title="collaborator feebbo" ></p>
+<p>{% img left /images/despegame.png collaborator despegame %}
+{% img left /images/bizneo.png collaborator bizneo %}
+{% img left /images/feebbo.png collaborator feebbo %}</p>
 ]]></content>
   </entry>
   
@@ -139,9 +137,9 @@ jugaremos con este pequeño monstruo.</p>
 
 <h3>Colaboran</h3>
 
-<p><img class="left" src="/images/despegame.png" title="collaborator despegame" >
-<img class="left" src="/images/bizneo.png" title="collaborator bizneo" >
-<img class="left" src="/images/feebbo.png" title="collaborator feebbo" ></p>
+<p>{% img left /images/despegame.png collaborator despegame %}
+{% img left /images/bizneo.png collaborator bizneo %}
+{% img left /images/feebbo.png collaborator feebbo %}</p>
 ]]></content>
   </entry>
   
@@ -182,9 +180,9 @@ uso en entornos basados en Ruby. ¿Te apuntas?</p>
 
 <h3>Colaboran</h3>
 
-<p><img class="left" src="/images/despegame.png" title="collaborator despegame" >
-<img class="left" src="/images/bizneo.png" title="collaborator bizneo" >
-<img class="left" src="/images/feebbo.png" title="collaborator feebbo" ></p>
+<p>{% img left /images/despegame.png collaborator despegame %}
+{% img left /images/bizneo.png collaborator bizneo %}
+{% img left /images/feebbo.png collaborator feebbo %}</p>
 ]]></content>
   </entry>
   
