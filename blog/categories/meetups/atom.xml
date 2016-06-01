@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meetups | CiudadReal.rb]]></title>
   <link href="http://ciudadrealrb.github.com/blog/categories/meetups/atom.xml" rel="self"/>
   <link href="http://ciudadrealrb.github.com/"/>
-  <updated>2016-05-03T12:37:01+02:00</updated>
+  <updated>2016-06-01T19:31:14+02:00</updated>
   <id>http://ciudadrealrb.github.com/</id>
   <author>
     <name><![CDATA[CiudadReal.rb]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Reunión y Charla Junio]]></title>
+    <link href="http://ciudadrealrb.github.com/blog/2016/06/01/reunion-y-charla-junio/"/>
+    <updated>2016-06-01T21:30:00+02:00</updated>
+    <id>http://ciudadrealrb.github.com/blog/2016/06/01/reunion-y-charla-junio</id>
+    <content type="html"><![CDATA[<p>Ya es Junio y volvemos a dar guerra con nuevos temas interesantes, en
+esta ocasión tendremos la oportunidad de conocer las bondades de Elixir,
+un lenguaje de base funcional con una sintaxis "acomodada" que está
+pegando fuerte en la comunidad Ruby.</p>
+
+<h3>Fecha y hora</h3>
+
+<p>Jueves, <strong>16 de Junio</strong> a las <strong>19:00</strong></p>
+
+<h3>Lugar</h3>
+
+<p>Despégame, espacio de coworking<br/>
+<a href="https://goo.gl/maps/PgQ88oCgUW32">Plaza Cervantes 6, Planta 5</a></p>
+
+<!-- more -->
+
+
+<h3>Charla: <em>"Elixir 101 for Rubyists"</em></h3>
+
+<p>Nuestro viejo amigo <strong>Diego Arenal</strong> nos introducirá en el mundo de
+<a href="http://elixir-lang.org/">Elixir</a> desde su experiencia práctica como
+desarrollador Ruby.</p>
+
+<h3>Inscripción</h3>
+
+<p>Muy pronto publicaremos la URL en Meetup para que puedas inscribirte.</p>
+
+<h3>Colaboran</h3>
+
+<p><img class="left" src="/images/despegame.png" title="collaborator despegame" >
+<img class="left" src="/images/bizneo.png" title="collaborator bizneo" >
+<img class="left" src="/images/feebbo.png" title="collaborator feebbo" ></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Reunión y Charla Mayo]]></title>
@@ -53,9 +93,9 @@ evitar cualquier problema de aforo:</p>
 
 <h3>Colaboran</h3>
 
-<p>{% img left /images/despegame.png collaborator despegame %}
-{% img left /images/bizneo.png collaborator bizneo %}
-{% img left /images/feebbo.png collaborator feebbo %}</p>
+<p><img class="left" src="/images/despegame.png" title="collaborator despegame" >
+<img class="left" src="/images/bizneo.png" title="collaborator bizneo" >
+<img class="left" src="/images/feebbo.png" title="collaborator feebbo" ></p>
 ]]></content>
   </entry>
   
@@ -85,7 +125,7 @@ dejamos con todos los detalles:</p>
 práctica en la integración de PayPal en aplicaciones Ruby on Rails. El
 propio Marcos nos deja un banner para su charla:</p>
 
-<p>{% img /images/2016-03-31-reunion-y-charla-abril/marcos-talk-cover.jpg marcos-talk-cover %}</p>
+<p><img src="/images/2016-03-31-reunion-y-charla-abril/marcos-talk-cover.jpg" title="marcos-talk-cover" ></p>
 
 <p>¡Gracias!</p>
 
@@ -102,9 +142,9 @@ evitar cualquier problema de aforo:</p>
 
 <h3>Colaboran</h3>
 
-<p>{% img left /images/despegame.png collaborator despegame %}
-{% img left /images/bizneo.png collaborator bizneo %}
-{% img left /images/feebbo.png collaborator feebbo %}</p>
+<p><img class="left" src="/images/despegame.png" title="collaborator despegame" >
+<img class="left" src="/images/bizneo.png" title="collaborator bizneo" >
+<img class="left" src="/images/feebbo.png" title="collaborator feebbo" ></p>
 ]]></content>
   </entry>
   
@@ -137,9 +177,9 @@ jugaremos con este pequeño monstruo.</p>
 
 <h3>Colaboran</h3>
 
-<p>{% img left /images/despegame.png collaborator despegame %}
-{% img left /images/bizneo.png collaborator bizneo %}
-{% img left /images/feebbo.png collaborator feebbo %}</p>
+<p><img class="left" src="/images/despegame.png" title="collaborator despegame" >
+<img class="left" src="/images/bizneo.png" title="collaborator bizneo" >
+<img class="left" src="/images/feebbo.png" title="collaborator feebbo" ></p>
 ]]></content>
   </entry>
   
@@ -180,46 +220,9 @@ uso en entornos basados en Ruby. ¿Te apuntas?</p>
 
 <h3>Colaboran</h3>
 
-<p>{% img left /images/despegame.png collaborator despegame %}
-{% img left /images/bizneo.png collaborator bizneo %}
-{% img left /images/feebbo.png collaborator feebbo %}</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Reunión y Charla Abril]]></title>
-    <link href="http://ciudadrealrb.github.com/blog/2014/04/09/reunion-y-charla-abril/"/>
-    <updated>2014-04-09T13:00:00+02:00</updated>
-    <id>http://ciudadrealrb.github.com/blog/2014/04/09/reunion-y-charla-abril</id>
-    <content type="html"><![CDATA[<h3>Fecha y hora</h3>
-
-<p>Miércoles, <strong>16 de Abril</strong> a las <strong>19:00</strong></p>
-
-<h3>Lugar</h3>
-
-<p>Biblioteca Pública de Ciudad Real<br/>
-<a href="http://goo.gl/lTzW65">Avda. Ferrocarril S/N</a><br/>
-<a href="http://www.bibliotecaspublicas.es/ciudadreal/">http://bibliotecaspublicas.es/ciudadreal</a><br/>
-<small>(Aula de formación de la primera planta)</small></p>
-
-<!-- more -->
-
-
-<h3>Charla: <em>puts 'Hola Ruby on Rails'</em></h3>
-
-<p><a href="http://marcos-martin.aws.af.cm/">Marcos Martín</a> nos propone una
-revisión personal desde cero (o casi) de uno de los frameworks más
-populares para la comunidad Ruby:
-<a href="http://rubyonrails.org/">Ruby on Rails</a>.</p>
-
-<h2>Actualizado</h2>
-
-<p>Marcos ha compartido todo el material de su charla a través del
-siguiente enlace:</p>
-
-<p><a href="http://marcos-martin.aws.af.cm/blogs/conferencia-ruby-on-rails-en-ciudad-real">Material de puts 'Hola Ruby on Rails'</a></p>
-
-<p>¡Gracias Marcos!</p>
+<p><img class="left" src="/images/despegame.png" title="collaborator despegame" >
+<img class="left" src="/images/bizneo.png" title="collaborator bizneo" >
+<img class="left" src="/images/feebbo.png" title="collaborator feebbo" ></p>
 ]]></content>
   </entry>
   
