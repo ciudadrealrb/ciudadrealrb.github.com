@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meetups | CiudadReal.rb]]></title>
   <link href="http://ciudadrealrb.github.com/blog/categories/meetups/atom.xml" rel="self"/>
   <link href="http://ciudadrealrb.github.com/"/>
-  <updated>2016-06-01T19:40:20+02:00</updated>
+  <updated>2016-10-05T08:36:35+02:00</updated>
   <id>http://ciudadrealrb.github.com/</id>
   <author>
     <name><![CDATA[CiudadReal.rb]]></name>
@@ -12,6 +12,56 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Reunión y Charla Octubre]]></title>
+    <link href="http://ciudadrealrb.github.com/blog/2016/10/05/reunion-y-charla-octubre/"/>
+    <updated>2016-10-05T10:30:00+02:00</updated>
+    <id>http://ciudadrealrb.github.com/blog/2016/10/05/reunion-y-charla-octubre</id>
+    <content type="html"><![CDATA[<p>Se comenta por ahí que estrenamos temporada, y que no van a faltar
+dos de nuestros imprescindibles: Eventos técnicos y buen networking.
+Tenemos fecha y excusa para charlar sobre <strong>React</strong> en back-ends Ruby on
+Rails del <em>MundoReal™</em>, y aprovecharemos la ocasión para discutir algunas
+propuestas que pueden hacer nuestra comunidad más interesante en esta
+nueva temporada.</p>
+
+<h3>Fecha y hora</h3>
+
+<p>Jueves, <strong>20 de Octubre</strong> a las <strong>19:00</strong></p>
+
+<h3>Lugar</h3>
+
+<p>Despégame, espacio de coworking<br/>
+<a href="https://goo.gl/maps/PgQ88oCgUW32">Plaza Cervantes 6, Planta 5</a></p>
+
+<!-- more -->
+
+
+<h3>Charla: <em>"React on Rails"</em></h3>
+
+<p><a href="https://twitter.com/danguita">David Anguita</a> nos hablará sobre
+<a href="https://facebook.github.io/react/">React</a>, la popular librería diseñada
+para crear interfaces de usuario, y distintas técnicas de integración
+con nuestros proyectos o back-ends basados en Ruby on Rails.</p>
+
+<h3>Inscripción</h3>
+
+<p>Aunque no es necesario confirmar asistencia, si tienes pensado asistir
+sería de gran ayuda estar inscrito en el siguiente Evento en Meetup para
+evitar cualquier problema de aforo:</p>
+
+<ul>
+<li><a href="">Reunión de Octubre en CiudadReal.rb</a></li>
+</ul>
+
+
+<h3>Colaboran</h3>
+
+<p><img class="left" src="/images/despegame.png" title="collaborator despegame" >
+<img class="left" src="/images/bizneo.png" title="collaborator bizneo" >
+<img class="left" src="/images/feebbo.png" title="collaborator feebbo" ></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Reunión y Charla Junio]]></title>
@@ -181,49 +231,6 @@ con todos los detalles:</p>
 principales características de este servicio, analizando sus ventajas e
 inconvenientes y tomando como ejemplo un pequeño caso inicial donde
 jugaremos con este pequeño monstruo.</p>
-
-<h3>Colaboran</h3>
-
-<p><img class="left" src="/images/despegame.png" title="collaborator despegame" >
-<img class="left" src="/images/bizneo.png" title="collaborator bizneo" >
-<img class="left" src="/images/feebbo.png" title="collaborator feebbo" ></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Estamos de vuelta: Reunión y Charla Enero]]></title>
-    <link href="http://ciudadrealrb.github.com/blog/2016/01/14/reunion-y-charla-enero/"/>
-    <updated>2016-01-14T21:00:00+01:00</updated>
-    <id>http://ciudadrealrb.github.com/blog/2016/01/14/reunion-y-charla-enero</id>
-    <content type="html"><![CDATA[<p>Tras un (enorme) parón, unos cuantos locos hemos decidido volver a la
-carga con esta iniciativa. Esperamos que los Rubyistas que participaban
-en estos eventos allá por 2014 sigan por aquí y volvamos a encontrarnos.</p>
-
-<p>Con todo este tiempo de inactividad necesitaremos todas las manos
-posibles en la difusión del evento, ¡se agradece cada <em>share</em>!</p>
-
-<h3>Fecha y hora</h3>
-
-<p>Viernes, <strong>29 de Enero</strong> a las <strong>19:00</strong></p>
-
-<h3>Lugar</h3>
-
-<p>Despegame, espacio de coworking<br/>
-<a href="https://goo.gl/maps/PgQ88oCgUW32">Plaza Cervantes 6, Planta 5</a></p>
-
-<!-- more -->
-
-
-<h3>Charla: <em>"Docker 101 para Rubyistas"</em></h3>
-
-<p><a href="http://davidanguita.name">David Anguita</a> hará una introducción al mundo
-de los <em>software containers</em> con <strong>Docker</strong>, y veremos algunos casos de
-uso en entornos basados en Ruby. ¿Te apuntas?</p>
-
-<h4>Actualizado</h4>
-
-<p>Todo el material de la charla está disponible en la siguiente URL:
-<a href="https://github.com/danguita/talks/tree/master/docker-101-rubyist-edition">danguita/talks</a>.</p>
 
 <h3>Colaboran</h3>
 
