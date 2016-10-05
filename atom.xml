@@ -4,7 +4,7 @@
   <title><![CDATA[CiudadReal.rb]]></title>
   <link href="http://ciudadrealrb.github.com/atom.xml" rel="self"/>
   <link href="http://ciudadrealrb.github.com/"/>
-  <updated>2016-10-05T08:43:27+02:00</updated>
+  <updated>2016-10-05T08:53:42+02:00</updated>
   <id>http://ciudadrealrb.github.com/</id>
   <author>
     <name><![CDATA[CiudadReal.rb]]></name>
@@ -19,11 +19,11 @@
     <updated>2016-10-05T10:30:00+02:00</updated>
     <id>http://ciudadrealrb.github.com/blog/2016/10/05/reunion-y-charla-octubre</id>
     <content type="html"><![CDATA[<p>Se comenta por ahí que estrenamos temporada, y que no van a faltar
-dos de nuestros imprescindibles: Eventos técnicos y buen networking.
-Tenemos fecha y excusa para charlar sobre <strong>React</strong> en back-ends Ruby on
-Rails del <em>MundoReal™</em>, y aprovecharemos la ocasión para discutir algunas
-propuestas que pueden hacer nuestra comunidad más interesante en esta
-nueva temporada.</p>
+dos de nuestros imprescindibles: Charlas técnicas y buen networking.
+Tenemos fecha y excusa para charlar sobre la integración de <strong>React</strong>
+en back-ends Ruby on Rails, y aprovecharemos la ocasión para discutir
+algunas propuestas que pueden hacer nuestra comunidad más interesante en
+esta nueva temporada.</p>
 
 <h3>Fecha y hora</h3>
 
